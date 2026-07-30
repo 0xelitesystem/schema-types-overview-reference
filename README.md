@@ -6,11 +6,15 @@ This reference covers how to choose and apply schema types without inviting pena
 
 ## What is inside
 
-- `01-what-structured-data-is.md` what it is and why engines use it
-- `02-choosing-the-right-type.md` matching the type to the page
-- `03-common-types-and-when-to-use-them.md` the types most sites actually need
-- `04-required-and-recommended-properties.md` what each type needs to be useful
-- `05-validating-and-avoiding-mistakes.md` testing it and staying honest
+- [01-what-structured-data-is.md](01-what-structured-data-is.md) what it is and why engines use it
+- [02-choosing-the-right-type.md](02-choosing-the-right-type.md) matching the type to the page
+- [03-common-types-and-when-to-use-them.md](03-common-types-and-when-to-use-them.md) the types most sites actually need
+- [04-required-and-recommended-properties.md](04-required-and-recommended-properties.md) what each type needs to be useful
+- [05-validating-and-avoiding-mistakes.md](05-validating-and-avoiding-mistakes.md) testing it and staying honest
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
